@@ -45,3 +45,9 @@
   color: #000000;
   margin-right: 58px;
 }
+@media (max-width: 768px){
+    .wrapper{
+        justify-content: center;
+        flex-wrap: wrap;
+    }
+}
